@@ -35,7 +35,13 @@ def graph_data(data):
 
     df = pandas.DataFrame({"category": category, "month": month, "score": score})
     fig = px.line(
-        df, x="month", y="score", color="category", text="score", hover_name="category", range_y=[1,3]
+        df,
+        x="month",
+        y="score",
+        color="category",
+        text="score",
+        hover_name="category",
+        range_y=[0.9, 3.1],
     )
     fig.show()
     fig.write_html("index.html")
