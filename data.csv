@@ -1,27 +1,36 @@
-Category,Month,1,2,3
-Delivering Value,4/1/21,0,4,5
-Speed,4/1/21,0,5,4
-Mission,4/1/21,0,3,6
-Fun,4/1/21,0,3,6
-Process,4/1/21,0,1,8
-Health of Codebase,4/1/21,0,6,3
-Teamwork,4/1/21,0,4,5
-Support,4/1/21,0,1,8
-Delivering Value,5/1/21,0,1,7
-Speed,5/1/21,0,5,3
-Mission,5/1/21,0,1,7
-Fun,5/1/21,0,1,7
-Process,5/1/21,0,2,6
-Health of Codebase (Lattice),5/1/21,0,7,0
-Health of Codebase (Grow),5/1/21,0,2,5
-Teamwork,5/1/21,0,2,6
-Support,5/1/21,0,1,7
-Delivering Value,6/1/21,0,2,7
-Speed,6/1/21,1,5,4
-Mission,6/1/21,0,3,7
-Fun,6/1/21,0,5,5
-Process,6/1/21,0,4,6
-Health of Codebase (Lattice),6/1/21,0,8,0
-Health of Codebase (Grow),6/1/21,0,5,3
-Teamwork,6/1/21,0,4,6
-Support,6/1/21,0,2,8
+Category,Month,1,2,3,Sum
+Delivering Value,4/1/21,0,4,5,9
+Speed,4/1/21,0,5,4,9
+Mission,4/1/21,0,3,6,9
+Fun,4/1/21,0,3,6,9
+Process,4/1/21,0,1,8,9
+Health of Codebase,4/1/21,0,6,3,9
+Teamwork,4/1/21,0,4,5,9
+Support,4/1/21,0,1,8,9
+Delivering Value,5/1/21,0,1,7,8
+Speed,5/1/21,0,5,3,8
+Mission,5/1/21,0,1,7,8
+Fun,5/1/21,0,1,7,8
+Process,5/1/21,0,2,6,8
+Health of Codebase (Lattice),5/1/21,0,7,0,7
+Health of Codebase (Grow),5/1/21,0,2,5,7
+Teamwork,5/1/21,0,2,6,8
+Support,5/1/21,0,1,7,8
+Delivering Value,6/1/21,0,3,7,10
+Speed,6/1/21,1,5,4,10
+Mission,6/1/21,0,3,7,10
+Fun,6/1/21,0,5,5,10
+Process,6/1/21,0,4,6,10
+Health of Codebase (Lattice),6/1/21,0,8,0,8
+Health of Codebase (Grow),6/1/21,0,5,3,8
+Teamwork,6/1/21,0,4,6,10
+Support,6/1/21,0,2,8,10
+Delivering Value,7/1/21,0,2,8,10
+Speed,7/1/21,0,3,7,10
+Mission,7/1/21,1,1,8,10
+Fun,7/1/21,0,3,7,10
+Process,7/1/21,0,4,6,10
+Health of Codebase (Lattice),7/1/21,0,6,1,7
+Health of Codebase (Grow),7/1/21,0,2,5,7
+Teamwork,7/1/21,0,4,6,10
+Support,7/1/21,0,0,10,10
